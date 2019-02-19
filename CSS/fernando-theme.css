@@ -1,0 +1,16 @@
+body{
+  background-color: pink;
+}
+
+a:link, a:visited, a:hover, a:active {
+  background-color: blue;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+table, th, td {
+  border: 1px solid yellow;
+}
